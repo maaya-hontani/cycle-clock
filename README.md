@@ -7,7 +7,7 @@
 
 動作状況の動画があります．Gyazoサービスを利用しています．
  
-
+https://gyazo.com/b5c980cd71f19f06c63bc2a12d38817b
  
 # Features
  
