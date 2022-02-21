@@ -1,6 +1,7 @@
 # Cycle Clock
  
 指定した時間をカウントダウンしてくれるカウントダウンタイマーです．
+![2022-02-21_12_37_41](https://user-images.githubusercontent.com/99890088/154885223-60691266-a15e-46ae-a691-b534ea5a20a9.png)
 
 
 # DEMO
